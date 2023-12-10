@@ -1,1 +1,4 @@
-password_manager_database.txt
+password_manager_database.dat
+password_manger_database.dat.enc
+decrypted_data.txt
+shared.aeskey
